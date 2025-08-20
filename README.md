@@ -79,6 +79,3 @@ TMDB-movie-data-and-Job-Market-Analysis/
 **Rohit Surya** — Data collection, HTML parsing, dataset curation, report development
 
 ---
-
-## 📌 License
-Academic use only (Foundations of Information, University of Arizona).
